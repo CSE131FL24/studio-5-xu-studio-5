@@ -9,4 +9,5 @@ import org.junit.runners.Suite;
 @RunWith(Suite.class)
 @Suite.SuiteClasses({ ArraySumPreliminaryTest.class, ArraySumComprehensiveTest.class })
 public class ArraySumTestSuite {
+	
 }
